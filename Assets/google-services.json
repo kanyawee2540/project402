@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "301069507062",
+    "firebase_url": "https://project-75a5c-default-rtdb.firebaseio.com",
+    "project_id": "project-75a5c",
+    "storage_bucket": "project-75a5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301069507062:android:392319627b2aac88c98fd7",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.KIDDEE"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "301069507062-t6gdeo5lmis55cvr9nirsnt9ql1sq3gh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdvdw8w_v66y96r7ndXpKRs39lMiZwABY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "301069507062-t6gdeo5lmis55cvr9nirsnt9ql1sq3gh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "301069507062-du8rj0pslde5dbm1b6o1ekv25dvedq4p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.DefaultCompany.KIDDEE"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
